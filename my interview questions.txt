@@ -1,0 +1,85 @@
+1) diff between build peraidically and pollscm
+
+when ever the chenges happened in repositary build will trigeered automatically by using cron.
+
+with out changing in repositary build trigger automatically. 
+
+2) diff b/w git and svn
+2) diff b/w ant maven
+4) diff b/w snapshot and version
+
+-snapshot is a current deployment copy. maven checks during each build for a new snap shot in a 
+remote repostary
+--version is not update
+--maven will download always download secified version
+--in case of snapshot "maben will download always lastest vesrion"
+
+5) what is master and slave
+--Your main Jenkins server is the Master. The Master’s job is to handle:
+          --->Scheduling build jobs.
+	  ---->Monitor the slaves
+-->A Slave is a Java executable that runs on a remote machine. 
+	   ---It hears requests from the Jenkins Master instance.
+
+6) how assign jobs in slaves
+
+
+
+7) how to chage home dir in jenkins
+8) useges of nodes
+9) how to skip the test cases in maven
+10)build pipenines in jenkins
+11)dependince manage ments in jenkins
+12)svn branching staratagies
+13)wget, uname,find,du,df,sed,ifconfig, special char
+14)in afile 1-100 lines is there iwant skip 12,20,34 peint remaining numbers and print the    these numbers..
+15) what is relevent path and absulote path.....
+16)svn additing
+17) scrum sprint user stories,
+18) what type of reports in sonarqube?  jakobo
+19) how to generate xml/html reports in sonar
+20) What is code smell in sonarqube?
+21) email notifications for multiple persions?
+22) how meny poms required for ear?
+23) class path in ant and what is **/* ?
+24) Explain node concept in Jenkins?
+25) how to kill java processes id?  ps -ef|grep "java"|awk
+26) about sonar Graph?
+27) 
+
+
+
+
+
+
+
+
+
+
+svn git ant maven,jenkins interview questions
+
+resume preparation project details
+
+current companey and interviewr comaney details.
+
+address of client locaton and payrole companey location.
+
+tell me about ur self
+
+
+1) svn properties (version and unversion properties)
+2) sonar properties
+3) how to instigrate in other sysytems
+4) jenkins how clean?
+5) how to take 2 days backup in subversion?
+6) Distribution management in maven?
+7) node and slave concept?
+8) how to check the reports in sonarqube?
+9) in svn one have branch another user how copy from there or how check?
+10) how  to restart the instance.what is instance and what aws
+11) how to access other local repo branch?
+	svn switch --relocate
+
+
+
+

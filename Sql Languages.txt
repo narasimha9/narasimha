@@ -1,0 +1,23 @@
+DDL:(Data Defination Language)
+==============================
+create,truncate,alter,drop
+
+
+DML:(Data Manipulation Language)
+===================================
+insert,update,delete
+
+
+TCL:(Transaction Controle Language)
+====================================
+commit,rolleback,savepoint
+
+
+DCL:(Data Controle Language)
+==============================
+revoke ,grant
+
+
+DQL/DRL:(Data quiry/Retrive Language)
+======================================
+select
